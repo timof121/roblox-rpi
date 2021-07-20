@@ -9,3 +9,7 @@ Roblox runs on raspberry pi using lineage
 Roblox succesfully installee using wine + box86
 
 Roblox studio  succesfully installed
+
+Roblox studio loaded splash screen
+
+Roblox studio STARTED INTO LOGGING IN WINDOW! 🥳
