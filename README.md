@@ -13,3 +13,5 @@ Roblox studio  succesfully installed
 Roblox studio loaded splash screen
 
 Roblox studio STARTED INTO LOGGING IN WINDOW! 🥳
+
+Roblox studio loadef into template selection
