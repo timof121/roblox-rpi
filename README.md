@@ -15,3 +15,5 @@ Roblox studio loaded splash screen
 Roblox studio STARTED INTO LOGGING IN WINDOW! 🥳
 
 Roblox studio loadef into template selection
+
+Studio freezes when loading a place, ill look into it
