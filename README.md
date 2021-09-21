@@ -5,6 +5,8 @@ If want to install x86 wine on raspberyr pi, you can use [Pi-Apps](https://githu
 
 Currently focusing on studio.
 
+welp i think roblox changed the requieremnts to run, and im facing an issue tat roblox will only work on wine 6.11+ BUT its unstalbr on box86 so both player and studio freeze
+
 # Current progress: 2%
 Roblox runs on raspberry pi using lineage 
 
