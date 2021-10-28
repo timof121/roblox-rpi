@@ -21,3 +21,5 @@ Roblox studio started into logging window!
 Roblox studio loaded into template selection
 
 Studio freezes when loading a place, ill look into it
+
+# I just found how to install exagear on the pi. Gonna try it!
